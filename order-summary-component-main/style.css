@@ -1,0 +1,180 @@
+body{
+  background-color:hsl(212, 45%, 89%);
+}
+
+p{
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+margin-top: 20px;
+margin-left: 31%;
+}
+
+.annual{
+  background-color:hsl(193, 8%, 78%);
+  border-radius: 10px;
+  height: 75px;
+  width: 79%;
+  margin-left:10%;
+  display: flex;
+  align-items: center;
+}
+
+.annual img{
+  margin: 10px;
+}
+
+h5{
+  margin-top: -3px;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+h3{
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+.annual p{
+  margin-bottom: 5px;
+  margin-left: -70px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.annual a{
+  margin-left: 150px;
+}
+
+#payment{
+margin-top: 5%;
+height: 50px;
+width:77%;
+margin-left: 46px;
+border: none;
+border-radius: 10px;
+background-color: blue;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.order{
+margin-top: 5%;
+height: 50px;
+width:77%;
+margin-left: 46px;
+border: none;
+border-radius: 10px;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+/* .order,:hover{
+  background-color: blue;
+} */
+
+.orderdiv{
+background-color: white;
+height:25rem ;
+width:35.6% ;
+margin-left: 31%;
+margin-top:-18.5px ;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .container{
+  background-color: green;
+} 
+
+.container img{
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  
+
+}
+
+.seconddiv{
+/* position: relative;
+bottom: 26px; */
+/* background-color: red;
+width: 35.6%;
+height: 70%;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+margin-top:-2%;
+}
+
+#ordertxt{
+text-align: center;
+padding: 2px;
+}
+
+.seconddiv p{
+  text-align: center;
+} */ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+} */
